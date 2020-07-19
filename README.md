@@ -13,3 +13,44 @@ You can use the website to generate badges: https://shields.io/
 
 &nbsp;
 
+<!-- Talking about you -->
+**Talking about Personal Stuffs:**
+
+<!-- Any image aligned to the right. Beware the width -->
+<img width="55%" align="right" alt="Github" src="https://www.freepik.com/blog/app/uploads/2018/10/code.jpg" />
+
+- 🙎🏻‍ I’m currently working as teach assistant at University of Los Andes;
+- 🌱 I’m currently learning NodeJs, Mongo DB and React; 
+- 💻 I’m studying systems and Computing Engineering Student @Universidad de los Andes;
+- 🤔 I’m looking for help with Web Design Responsive;
+- 💬 Ask me about anything, I am happy to help you;
+- 📫 How to reach me: julian-padilla@hotmail.com;
+
+**Languages and Tools:** 
+
+<!-- Your github readme stats
+You can use this api: https://github.com/anuraghazra/github-readme-stats
+-->
+<p>
+  <a href="https://github.com/onimur/handle-path-oz">
+    <img width="55%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=JulianP911&show_icons=true&hide_border=true" />
+  </a>
+  
+  <!-- Your languages and tools. Be careful with the alignment. 
+  You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
+  -->
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/eclipse/eclipse-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
+</p>
