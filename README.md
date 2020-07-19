@@ -17,7 +17,7 @@ You can use the website to generate badges: https://shields.io/
 **Talking about Personal Stuffs:**
 
 <!-- Any image aligned to the right. Beware the width -->
-<img width="55%" align="right" alt="Github" src="https://www.freepik.com/blog/app/uploads/2018/10/code.jpg" />
+<img width="50%" align="right" alt="Github" src="https://www.freepik.com/blog/app/uploads/2018/10/code.jpg" />
 
 - 🙎🏻‍ I’m currently working as teach assistant at University of Los Andes;
 - 🌱 I’m currently learning NodeJs, Mongo DB and React; 
@@ -33,7 +33,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 -->
 <p>
   <a href="https://github.com/onimur/handle-path-oz">
-    <img width="55%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=JulianP911&show_icons=true&hide_border=true" />
+    <img width="50%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=JulianP911&show_icons=true&hide_border=true" />
   </a>
   
   <!-- Your languages and tools. Be careful with the alignment. 
