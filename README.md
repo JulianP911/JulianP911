@@ -20,7 +20,7 @@ You can use the website to generate badges: https://shields.io/
 <img width="50%" align="right" alt="Github" src="https://www.freepik.com/blog/app/uploads/2018/10/code.jpg" />
 
 - 🙎🏻‍ I’m currently working as teach assistant at University of Los Andes;
-- 🌱 I’m currently learning NodeJs, Mongo DB and React; 
+- 🌱 I’m currently learning SQL, JAVAX and Angular; 
 - 💻 I’m studying systems and Computing Engineering Student @Universidad de los Andes;
 - 🤔 I’m looking for help with Web Design Responsive;
 - 💬 Ask me about anything, I am happy to help you;
