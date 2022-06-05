@@ -17,12 +17,12 @@ You can use the website to generate badges: https://shields.io/
 **Talking about Personal Stuffs:**
 
 <!-- Any image aligned to the right. Beware the width -->
-<img width="50%" align="right" alt="Github" src="https://www.freepik.com/blog/app/uploads/2018/10/code.jpg" />
+<img width="50%" align="right" alt="Github" src="https://img.freepik.com/free-photo/professional-programmer-working-late-dark-office_1098-18705.jpg?t=st=1654467317~exp=1654467917~hmac=19c56059047de50ff933ce5340bac0748a5ffa8ed039b61841b3b44f43c6c943&w=826" />
 
-- 🙎🏻‍ I’m currently working as teach assistant at University of Los Andes;
-- 🌱 I’m currently learning Node.js, SAP and React.js; 
+- 🙎🏻‍ I’m currently working as Software Engineer Intern at Tyba;
+- 🌱 I’m currently learning Flutter, Firebase and MongoDB; 
 - 💻 I’m studying systems and Computing Engineering Student @Universidad de los Andes;
-- 🤔 I’m looking for help with Web Design Responsive;
+- 🤔 I’m looking for help with serverless functions on AWS.;
 - 💬 Ask me about anything, I am happy to help you;
 - 📫 How to reach me: julian-padilla@hotmail.com;
 
