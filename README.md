@@ -33,7 +33,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 -->
 <p>
   <a href="https://github.com/onimur/handle-path-oz">
-    <img width="50%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=JulianP911&show_icons=true&hide_border=true" />
+    <img width="50%" align="right" height="40%" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=JulianP911&show_icons=true&hide_border=true" />
   </a>
   
   <!-- Your languages and tools. Be careful with the alignment. 
@@ -58,4 +58,8 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/auth0/auth0-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/sap/sap-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg"></code>
 </p>
