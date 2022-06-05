@@ -17,7 +17,7 @@ You can use the website to generate badges: https://shields.io/
 **Talking about Personal Stuffs:**
 
 <!-- Any image aligned to the right. Beware the width -->
-<img width="50%" align="right" alt="Github" src="https://img.freepik.com/free-vector/single-page-application-abstract-concept-illustration-spa-web-page-web-development-trend-app-inside-browser-dynamically-rewriting-page-responsive-website-creation_335657-899.jpg?t=st=1654467317~exp=1654467917~hmac=b0ec3fd14a1c5f210df89f20616b69092f93f9179e348aeb336d58d7b6ac72a6&w=740" />
+<img width="50%" align="right" alt="Github" src="https://img.freepik.com/free-photo/professional-programmer-working-late-dark-office_1098-18705.jpg?t=st=1654467317~exp=1654467917~hmac=19c56059047de50ff933ce5340bac0748a5ffa8ed039b61841b3b44f43c6c943&w=826" />
 
 - 🙎🏻‍ I’m currently working as Software Engineer Intern at Tyba;
 - 🌱 I’m currently learning Flutter, Firebase and MongoDB; 
